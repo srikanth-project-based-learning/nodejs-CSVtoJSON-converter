@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-CSVtoJSON-converter",
+  "version": "1.0.0",
+  "description": "EDX - Introduction to NodeJS - Module 1 Assignment Lab: CSV to JSON Converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srikanth-project-based-learning/nodejs-CSVtoJSON-converter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srikanth-project-based-learning/nodejs-CSVtoJSON-converter/issues"
+  },
+  "homepage": "https://github.com/srikanth-project-based-learning/nodejs-CSVtoJSON-converter#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "uuid": "3.1.0"
+  }
+}
